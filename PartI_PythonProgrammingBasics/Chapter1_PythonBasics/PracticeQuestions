@@ -1,0 +1,57 @@
+1. operators / values
+
+*       - operator
+'hello' - value
+-99.8   - value
+-       - operator
+/	- operator
++	- operator
+5	- value
+
+2. variable / string
+
+spam	- variable
+'spam'	- string
+
+
+3. three data types
+
+1) int 	- integers
+2) float- floating-point numbers
+3) str	- strings
+
+4. an expression
+= operator + variable + (function call)
+the basic building blocks that make programs
+all expressions evalate to a single value
+
+5. expression / statement
+An expression evaluates to a single vallue. A statement does not.
+
+6. 
+bacon = 20
+bacon + 1
+
+bacon contains 20
+
+7. 
+'spam' + 'spamspam'
+> 'spamspamspam'
+
+'spam' * 3
+'spamspamspam'
+
+8. eggs / 100
+the variable cannot start with a number
+
+9. int(), float(), str()
+
+10. because trying to concatenate different data types (int) into one expression
+only strings can concatenate
+
+'I have eaten ' + str(99) + ' burritos.'
+'I have eaten ' + '99' + ' burritos.'
+
+Extra Credit:
+len()
+round(()
