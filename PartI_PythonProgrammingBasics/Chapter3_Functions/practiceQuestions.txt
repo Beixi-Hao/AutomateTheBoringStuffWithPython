@@ -1,0 +1,40 @@
+1. 
+- compartmentalize your code into logical groups
+- code in functions doesn't affect variables in otheer functions
+---------
+functions reduce the need for duplicate code.
+This makes programs shorter, easier to read, and easier to update.
+
+2. when the fuction is called
+
+3. def
+
+4. function is the definition of a function
+- def statement and the code in its def clause
+   function call is when calling the function
+- evaluates to the function's return value
+
+5. 1 global scope, infinite local scope, whenever a function is called
+
+6. destroys
+
+7. return value is the value that a function call evaluates to
+yes
+
+8. None
+
+9. global
+
+10. a return data type for a function without a return value
+NoneType
+
+11. import a library called areallyyourpetsnamederic
+
+12. spam.bacon()
+
+13. try catch exception
+place the line of code that might cause an error in a try clasuse.
+
+14. try - code that might cause an error
+    except - what to do after the error is caught
+ 	   - the code that executes if an error happens 

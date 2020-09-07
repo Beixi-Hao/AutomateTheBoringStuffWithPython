@@ -1,0 +1,86 @@
+1. True False
+2. and, or, not
+3. A    | B    | A AND B | A OR B
+   True | True | True    | True
+   True | False| False   | True
+   False| True | False   | True
+   False| False| False   | False
+
+   A    | Not A
+   True | False
+   False| True
+4. 
+   (5 > 4) and (3 == 5)
+  = True   and False 
+  = False
+   
+   not (5 > 4)
+ = not True
+ = False
+
+   (5 > 4) or (3 == 5)
+ = True    or False
+ = True
+
+   not ((5 > 4) or (3 == 5))
+ = not (True    or False)
+ = not True
+ = False
+
+   (True and True) and (True == False)
+ = True            and False
+ = False
+
+   (not False) or (not True)
+ = True        or False
+ = True
+
+5. 
+>
+>=
+<
+<=
+==
+!=
+
+6. 
+equal operator      ==
+assignment operator =
+
+7. condition - expressions that evaluate to True or False
+flow control statement
+
+8. if block, if block, else block
+
+9. 
+if spam == 1:
+    print('Hello') 
+elif spam == 2:
+    print('Howdy')
+else:
+    print('Greetings')
+
+10. Ctrl+C
+
+11. 
+break - exit a loop
+continue - jump back to the start
+
+12. 
+range(10)       - 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+range(0, 10)    - 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+range(0, 10, 1) - 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+
+13.
+
+for i in range(10):
+   print(i+1)
+
+i = 1
+while i < 11:
+    print(i)
+    i = i + 1
+
+14. spam.bacon()
+
+EC. round(), abs()
